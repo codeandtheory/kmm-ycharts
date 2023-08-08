@@ -38,7 +38,7 @@ class CombinedLineAndBarChartActivity : ComponentActivity() {
                             .padding(it),
                         contentAlignment = Alignment.TopCenter
                     ) {
-                        ChartScreen(chartType = 1)
+                        ChartScreen(chartType = 7)
                     }
                 }
             }
